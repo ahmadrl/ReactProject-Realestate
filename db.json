@@ -1,0 +1,162 @@
+{
+  "posts": [
+    {
+      "title": "aa",
+      "body": "sws",
+      "userId": 3,
+      "date": "2022-08-03T09:01:24.846Z",
+      "reactions": {
+        "thumbsUp": 1,
+        "wow": 0,
+        "heart": 1,
+        "rocket": 0,
+        "coffee": 0
+      },
+      "id": 1
+    },
+    {
+      "title": "sdsds",
+      "body": "dsds",
+      "userId": 1,
+      "date": "2022-08-04T11:54:46.726Z",
+      "reactions": {
+        "thumbsUp": 0,
+        "wow": 0,
+        "heart": 0,
+        "rocket": 0,
+        "coffee": 0
+      },
+      "id": 2
+    },
+    {
+      "title": "dsds",
+      "body": "4",
+      "userId": 1,
+      "date": "2022-08-04T11:56:07.140Z",
+      "reactions": {
+        "thumbsUp": 0,
+        "wow": 0,
+        "heart": 0,
+        "rocket": 0,
+        "coffee": 0
+      },
+      "id": 3
+    },
+    {
+      "title": "Question ",
+      "body": "Question ",
+      "userId": 1,
+      "date": "2022-08-04T13:38:01.016Z",
+      "reactions": {
+        "thumbsUp": 0,
+        "wow": 0,
+        "heart": 0,
+        "rocket": 0,
+        "coffee": 0
+      },
+      "id": 4
+    },
+    {
+      "title": "gtgtg",
+      "body": "tgtgtg",
+      "userId": 1,
+      "date": "2022-08-05T18:03:20.452Z",
+      "reactions": {
+        "thumbsUp": 0,
+        "wow": 0,
+        "heart": 0,
+        "rocket": 0,
+        "coffee": 0
+      },
+      "id": 5
+    },
+    {
+      "title": "ww",
+      "body": "ww",
+      "userId": 1,
+      "date": "2022-08-05T18:05:33.361Z",
+      "reactions": {
+        "thumbsUp": 0,
+        "wow": 0,
+        "heart": 0,
+        "rocket": 0,
+        "coffee": 0
+      },
+      "id": 6
+    },
+    {
+      "title": "hthy",
+      "body": "h",
+      "userId": 1,
+      "date": "2022-08-05T18:06:10.604Z",
+      "reactions": {
+        "thumbsUp": 0,
+        "wow": 0,
+        "heart": 0,
+        "rocket": 0,
+        "coffee": 0
+      },
+      "id": 7
+    },
+    {
+      "title": "r2022-08-05T18:06:10.604Z2022-08-05T18:06:10.604Z",
+      "body": "r",
+      "userId": 1,
+      "date": "2022-08-05T18:11:07.502Z",
+      "reactions": {
+        "thumbsUp": 0,
+        "wow": 0,
+        "heart": 0,
+        "rocket": 0,
+        "coffee": 0
+      },
+      "id": 8
+    },
+    {
+      "title": "wewe",
+      "body": "ewew",
+      "userId": 1,
+      "date": "2022-08-05T19:24:46.044Z",
+      "reactions": {
+        "thumbsUp": 0,
+        "wow": 0,
+        "heart": 0,
+        "rocket": 0,
+        "coffee": 0
+      },
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "body": "ahmad",
+      "userId": 1,
+      "PostId": {
+        "postId": "9"
+      },
+      "date": "2022-08-06T17:54:32.095Z",
+      "id": 1
+    },
+    {
+      "body": "zzzz",
+      "userId": 1,
+      "PostId": {
+        "postId": "9"
+      },
+      "date": "2022-08-06T18:01:08.282Z",
+      "id": 2
+    },
+    {
+      "body": "edecdvfdn",
+      "userId": 1,
+      "PostId": {
+        "postId": "9"
+      },
+      "date": "2022-08-06T18:01:16.157Z",
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
